@@ -129,7 +129,7 @@
 // let newArray = Arrays.map((element) => element * 2).filter((element) => element > 10);
 // console.log(newArray);
 
-let Arrays = [22, 36, 49, 64, 81];
+let Arrays = [22, 36, 49, 64, 81,90];
 
 let newArray = Arrays.reduce((accumulator, element, index, arr) => {
     debugger;
